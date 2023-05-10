@@ -3,6 +3,7 @@ com\portfolio\Facuda\entinty\Educacion.class
 com\portfolio\Facuda\Security\Repository\iRolRepository.class
 com\portfolio\Facuda\FacudaApplication.class
 com\portfolio\Facuda\Security\Service\UserDetailsImpl.class
+com\portfolio\Facuda\Interface\IPersonaService.class
 com\portfolio\Facuda\controller\personacontroller.class
 com\portfolio\Facuda\entinty\Persona.class
 com\portfolio\Facuda\Security\Dto\NuevoUsuario.class
@@ -14,7 +15,6 @@ com\portfolio\Facuda\Security\Entity\Usuario.class
 com\portfolio\Facuda\Security\Service\RolService.class
 com\portfolio\Facuda\Security\Entity\UsuarioPrincipal.class
 com\portfolio\Facuda\Security\Jwt\JwtTokenFilter.class
-com\portfolio\Facuda\Dto\dtoPersona.class
 com\portfolio\Facuda\Security\Dto\LoginUsuario.class
 com\portfolio\Facuda\entinty\has.class
 com\portfolio\Facuda\repository\REducacion.class
