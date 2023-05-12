@@ -3,7 +3,6 @@ D:\ProyectoAP4\proyectoint\BackEnd\src\main\java\com\portfolio\Facuda\entinty\Ex
 D:\ProyectoAP4\proyectoint\BackEnd\src\main\java\com\portfolio\Facuda\entinty\Persona.java
 D:\ProyectoAP4\proyectoint\BackEnd\src\main\java\com\portfolio\Facuda\controller\personacontroller.java
 D:\ProyectoAP4\proyectoint\BackEnd\src\main\java\com\portfolio\Facuda\repository\Rhas.java
-D:\ProyectoAP4\proyectoint\BackEnd\src\main\java\com\portfolio\Facuda\Security\Dto\dtoPersona.java
 D:\ProyectoAP4\proyectoint\BackEnd\src\main\java\com\portfolio\Facuda\Security\Dto\JwtDto.java
 D:\ProyectoAP4\proyectoint\BackEnd\src\main\java\com\portfolio\Facuda\entinty\has.java
 D:\ProyectoAP4\proyectoint\BackEnd\src\main\java\com\portfolio\Facuda\Security\Jwt\JwtEntryPoint.java
@@ -22,6 +21,7 @@ D:\ProyectoAP4\proyectoint\BackEnd\src\main\java\com\portfolio\Facuda\controller
 D:\ProyectoAP4\proyectoint\BackEnd\src\main\java\com\portfolio\Facuda\Security\Service\UsuarioService.java
 D:\ProyectoAP4\proyectoint\BackEnd\src\main\java\com\portfolio\Facuda\service\Seducacion.java
 D:\ProyectoAP4\proyectoint\BackEnd\src\main\java\com\portfolio\Facuda\Dto\dtoEducacion.java
+D:\ProyectoAP4\proyectoint\BackEnd\src\main\java\com\portfolio\Facuda\Dto\dtoPersona.java
 D:\ProyectoAP4\proyectoint\BackEnd\src\main\java\com\portfolio\Facuda\repository\RExperiencia.java
 D:\ProyectoAP4\proyectoint\BackEnd\src\main\java\com\portfolio\Facuda\Security\Controller\AuthController.java
 D:\ProyectoAP4\proyectoint\BackEnd\src\main\java\com\portfolio\Facuda\Security\Dto\NuevoUsuario.java

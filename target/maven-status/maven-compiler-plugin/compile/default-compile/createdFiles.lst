@@ -1,5 +1,4 @@
 com\portfolio\Facuda\controller\CEducacion.class
-com\portfolio\Facuda\Security\Dto\dtoPersona.class
 com\portfolio\Facuda\entinty\Educacion.class
 com\portfolio\Facuda\Security\Repository\iRolRepository.class
 com\portfolio\Facuda\FacudaApplication.class
@@ -15,6 +14,7 @@ com\portfolio\Facuda\Security\Entity\Usuario.class
 com\portfolio\Facuda\Security\Service\RolService.class
 com\portfolio\Facuda\Security\Entity\UsuarioPrincipal.class
 com\portfolio\Facuda\Security\Jwt\JwtTokenFilter.class
+com\portfolio\Facuda\Dto\dtoPersona.class
 com\portfolio\Facuda\Security\Dto\LoginUsuario.class
 com\portfolio\Facuda\entinty\has.class
 com\portfolio\Facuda\repository\REducacion.class

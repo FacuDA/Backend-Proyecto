@@ -1,7 +1,7 @@
 package com.portfolio.Facuda.controller;
 
 import com.portfolio.Facuda.Security.Controller.Mensaje;
-import com.portfolio.Facuda.Security.Dto.dtoPersona;
+import com.portfolio.Facuda.Dto.dtoPersona;
 import com.portfolio.Facuda.entinty.Persona;
 import com.portfolio.Facuda.service.ImpPersonaService;
 import java.util.List;
