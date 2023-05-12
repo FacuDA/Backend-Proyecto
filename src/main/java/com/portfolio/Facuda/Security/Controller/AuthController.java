@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package com.portfolio.Facuda.Security.Controller;
 import com.portfolio.Facuda.Security.Dto.JwtDto;
 import com.portfolio.Facuda.Security.Dto.LoginUsuario;
@@ -31,13 +27,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- *
- * @author Soler-PC
- */
 @RestController
 @RequestMapping("/auth")
-@CrossOrigin(origins = {"http://localhost:4200","https://facudafrontend.web.app"})
+@CrossOrigin(origins = "https://facudafrontend.web.app")
 public class AuthController {
     @Autowired
     PasswordEncoder passwordEncoder;
